@@ -1,0 +1,14 @@
+$boxPadding:20px;
+$boxMargin:20px;
+
+.PriceCard{
+    padding: $boxPadding;
+    margin: $boxMargin;
+    border: 1px solid #000;
+    background-color: #ffffff;
+    text-align:justify;
+}
+
+.PullPriceRight{
+    float: right;
+}

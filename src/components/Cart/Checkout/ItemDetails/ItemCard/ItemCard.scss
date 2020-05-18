@@ -1,0 +1,19 @@
+$boxPadding:20px;
+$boxMargin:20px;
+
+.ImageContainer img{
+    height:200px;
+    width: 200px;
+}
+
+.Item{
+    padding: $boxPadding;
+    margin: $boxMargin;
+    border: 1px solid #000;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.ItemDiv{
+    margin-top: 10%;
+}

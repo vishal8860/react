@@ -1,0 +1,21 @@
+.Image{
+    max-width: 80%;
+    max-height: 200px;
+}
+
+.Discount{
+    color: green;
+}
+
+.ActualPrice{
+    text-decoration: line-through;
+    color: #C0C0C0;
+}
+
+.AddBtnWrapper{
+    text-align: center;
+}
+
+.ItemList{
+    text-align: center;
+}
